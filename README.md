@@ -1,2 +1,5 @@
-# docker-course-udemy
-Little projects built from Docker Course Udemy (Portuguese language)
+# Docker Course Udemy
+The projects were built to learn about Docker's key concepts:
+#Images
+#Containers
+#Docker Compose
